@@ -98,7 +98,7 @@ python app.py
 ## 🧑‍💻 Developed By
 
 **Harsh Vishwakarma**  
-B.Tech CSE-AI | AKGEC  
+B.Tech CSE-AI | KIET 
 Email: harshvishwakarma8805@gmail.com
 
 ---
